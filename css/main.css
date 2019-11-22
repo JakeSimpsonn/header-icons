@@ -46,3 +46,9 @@ nav a {
   padding: .5rem .5em;
   border: 1px solid #a63f38;
 }
+
+nav li {
+  display: inline-block;
+  text-align: center;
+  width: 33.333%;
+}
