@@ -19,7 +19,22 @@ body {
   margin: 0;
 }
 
+.top {
+  display: flex;
+  justify-content: space-between;
+  padding: .4rem 0;
+  align-items: center;
+}
+
 h1 {
   font-size: 2rem;
   margin: 0;
+}
+
+.nav {
+  margin: 0;
+  font-size: 1.125rem;
+  display: flex;
+  list-style-type: none;
+  padding: 0;
 }
