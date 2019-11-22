@@ -53,6 +53,10 @@ nav li {
   width: 33.333%;
 }
 
+img {
+  width: 40px;
+}
+
 .nav a:hover {
   background-color: #a63f38;
 }
