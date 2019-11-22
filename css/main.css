@@ -38,3 +38,11 @@ h1 {
   list-style-type: none;
   padding: 0;
 }
+
+nav a {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  padding: .5rem .5em;
+  border: 1px solid #a63f38;
+}
