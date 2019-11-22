@@ -7,3 +7,10 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+header {
+  display: block;
+  text-align: center;
+  background-color: #d05c2e;
+  color: #fff;
+}
